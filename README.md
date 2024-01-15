@@ -1,15 +1,15 @@
 # Welcome to My Coding Journey! 🚀
 
-## About Me
+## About Me 👋
 Hi! I'm Dylan, a former Retail Manager who decided to embark on an exciting career change into the tech world.
 With a passion for technology and a love for problem-solving, I've found my calling in coding!💻
 
-## Tech Stack
+## Tech Stack 🧑‍💻
 - **Languages**: JavaScript, HTML, CSS
 - **Frameworks**: React, Node.js
 -  TTD | Jest | OOP | Docker | SQL | MySQL | Agile Methodologies 
 
-## What Drives Me
+## What Drives Me 💪
 
 I believe in the power of technology to transform the way we live and work. My journey reflects the determination to bring innovation and effeciency into every project I undertake.  
 
