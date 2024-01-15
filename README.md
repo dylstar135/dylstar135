@@ -7,6 +7,7 @@ With a passion for technology and a love for problem-solving, I've found my call
 ## Tech Stack
 - **Languages**: JavaScript, HTML, CSS
 - **Frameworks**: React, Node.js
+-  TTD | Jest | OOP | Docker | SQL | MySQL | Agile Methodologies 
 
 ## What Drives Me
 
