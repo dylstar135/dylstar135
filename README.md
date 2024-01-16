@@ -22,7 +22,7 @@ When I'm not coding, you'll likely find me pitched in the remote vastness of the
 Lets code together, feel free to reach out for collaberations,questions, or just to share your own adventures. 
 
 
-- 🌱 I’m currently cementing my knowledge of JavaScript,HTML, and CSS by buuilding projects I enjoy. Started to learn PEGA 
+- 🌱 I’m currently cementing my knowledge of JavaScript,HTML, and CSS by building projects I enjoy. Started to learn PEGA 
 - 🤔 I’m always looking for help and advice on how to improve in the ever changing world of tech
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: **Winner of SMTV lives Wonkey Donkey ( for those who remember it).....SquareHare**
